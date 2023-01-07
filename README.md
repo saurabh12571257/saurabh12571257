@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh12571257
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in Android/Mobile development
+- 🌱 I’m currently learning Android Development through Java
 - 💞️ I’m looking to collaborate on ,\...
 - 📫 How to reach me ...
 
